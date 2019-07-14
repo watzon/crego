@@ -2,7 +2,7 @@
 
 Crego is a (wip) steganography library for Crystal. For those who don't know what steganography is:
 
-> Steganography (/ˌstɛɡəˈnɒɡrəfi/ (About this soundlisten) STEG-ə-NOG-rə-fee) is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word steganography combines the Greek words steganos (στεγανός), meaning "covered, concealed, or protected", and graphein (γράφειν) meaning "writing". - [Wikipedia](https://www.wikiwand.com/en/Steganography)
+> Steganography (/ˌstɛɡəˈnɒɡrəfi/ STEG-ə-NOG-rə-fee) is the practice of concealing a file, message, image, or video within another file, message, image, or video. The word steganography combines the Greek words steganos (στεγανός), meaning "covered, concealed, or protected", and graphein (γράφειν) meaning "writing". - [Wikipedia](https://www.wikiwand.com/en/Steganography)
 
 Image formats currently supported by crego are JPEG and PNG, but support is planned for BMP and GIF images as well.
 
