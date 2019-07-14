@@ -1,0 +1,16 @@
+name: crego
+version: 0.1.0
+
+authors:
+  - Chris <cawatson1993@gmail.com>
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: "~> 4.4.1"
+  stumpy_jpeg:
+    github: reiswindy/stumpy_jpeg
+
+crystal: 0.29.0
+
+license: MIT
